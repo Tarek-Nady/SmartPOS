@@ -1,3 +1,3 @@
-this is point of sale appliction in asp windows forms app used 
+this is point of sale appliction in asp windows forms app   
 I still not finished this app yet 
-I still working in coding project
+I still work in it
