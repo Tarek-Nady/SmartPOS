@@ -32,6 +32,7 @@ namespace SmartPOS.Forms
             dataTable = new DataTable();
             try
             {
+                //still works
                 adapter.Fill(dataTable);
                 if (dataTable.Rows.Count > 0)
                 {
